@@ -1,0 +1,1 @@
+{"description": "Extend Sublime autocompletion to find matches in all open files of the current window", "url": "https://github.com/alienhard/SublimeAllAutocomplete", "platforms": ["*"], "version": "2015.06.02.04.27.34", "sublime_text": "*", "dependencies": []}

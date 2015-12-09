@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Block Cursor Everywhere",
+		"CSS3_Syntax",
+		"CSScomb",
+		"Darkula Color Scheme",
+		"Emmet",
+		"FileBrowser",
+		"FuzzyFilePath",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"JSLint",
+		"Local History",
+		"Monokai - Spacegray",
+		"Package Control",
+		"RecentActiveFiles",
+		"Sass",
+		"SCSS",
+		"Smart Delete",
+		"SublimeNFDToNFCPaste",
+		"Syntax Highlighting for Sass",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"Theme - Soda SolarizedDark",
+		"Theme - Spacegray",
+		"WordHighlight"
+	],
+	"repositories":
+	[
+		"https://github.com/astronaughts/SublimeChatWork"
+	]
+}
