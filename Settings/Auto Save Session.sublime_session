@@ -1903,20 +1903,307 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/history.jsp",
+					"file": "/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/8/index.php",
 					"settings":
 					{
-						"buffer_size": 19352,
+						"buffer_size": 30334,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/support.css",
+					"settings":
+					{
+						"buffer_size": 11211,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "Searching 4811 files for \"41066\" (regex)\n\n/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/bitcoin/top.jsp:\n  120:         <pt:afDetail afId=\"41066\" >\n\n/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/footer_af.jsp:\n   60:   <c:set var=\"footerAfId\" value=\"41066\" />\n\n/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/bitcoin/top.jsp:\n  106:       <pt:afDetail afId=\"41066\">\n  108:            <a class=\"clearfix\" onclick=\"ga('send', 'event', 'exchange', 'af-list', '${afDetail.service_name}');\" href=\"/ptu/sma/shopping/category_detail.do?afid=41066&amp;refererCategory=threeMinCamp\" title=\"${afDetail.service_name}\">\n  128:   <pt:afDetail afId=\"41066\">\n  129:     <a style=\"display: block; margin: 0 0 5px 0;\" onclick=\"ga('send', 'event', 'exchange', 'push-banner', 'bitflyer');\" href=\"/ptu/sma/shopping/category_detail.do?afid=41066\" title=\"${afDetail.service_name}\">\n\n/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/index.jsp:\n  694:       <pt:afDetail afId=\"41066\">\n  695:         <a style=\"display: block; margin: 0 0 5px 0;\" onclick=\"ga('send', 'event', 'exchange', 'push-banner', 'bitflyer');\" href=\"/ptu/sma/shopping/category_detail.do?afid=41066\" title=\"${afDetail.service_name}\">\n\n8 matches across 4 files\n",
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_money.jsp",
 					"settings":
 					{
-						"buffer_size": 1329,
+						"buffer_size": 13675,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_point.jsp",
+					"settings":
+					{
+						"buffer_size": 12897,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_gift.jsp",
+					"settings":
+					{
+						"buffer_size": 13857,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_head.jsp",
+					"settings":
+					{
+						"buffer_size": 5173,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/sp/src/style/smartPhone/common.css",
+					"settings":
+					{
+						"buffer_size": 198720,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/page/exchange/top.css",
+					"settings":
+					{
+						"buffer_size": 8967,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/game/top_kuji.jsp",
+					"settings":
+					{
+						"buffer_size": 7625,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/gmo_point/index.jsp",
+					"settings":
+					{
+						"buffer_size": 8144,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/page/exchange/detail.css",
+					"settings":
+					{
+						"buffer_size": 21431,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/index.jsp",
+					"settings":
+					{
+						"buffer_size": 6497,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/index.jsp",
+					"settings":
+					{
+						"buffer_size": 44851,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/struts-config-2008-renewal-real.xml",
+					"settings":
+					{
+						"buffer_size": 321259,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/struts-config-smartphone.xml",
+					"settings":
+					{
+						"buffer_size": 195578,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/card_fes.jsp",
+					"settings":
+					{
+						"buffer_size": 15899,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/shopping/category_detail.jsp",
+					"settings":
+					{
+						"buffer_size": 36465,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/regist/regist_complete.jsp",
+					"settings":
+					{
+						"buffer_size": 16438,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/u-next.jsp",
+					"settings":
+					{
+						"buffer_size": 7415,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "大ヒット映画をいつでも見られる「U-NEXT」はレンタル不要な動画配信タイプ！\n\n自宅の近くにレンタルDVDショップがあれば、何かと便利なはず。ただ、レンタルDVDショップだと、【貸し出し中】という予期せぬ事態が起こったりもします。一方でレンタルDVDショップが自宅から遠い場合だと、せっかく観たいものがあったとしても「まぁいいっか、また今度にしよう」なんて、ついつい先送りにしがちなのでは？\n自宅で簡単に動画配信が楽しめる「U-NEXT」があれば、【貸し出し中】になることもなく、また先送りにすることだってなくなるはず。\nそこで今回は、レンタル不要でありながら動画配信数はなんと100,000本、それも最新作や名作を揃える「U-NEXT」のメリットをお伝えします。\n\n■日本最大級の動画配信サービス！\n先ほど100,000本とお伝えした通り、「U-NEXT」の品揃えはレンタルDVDショップにも引けを取りません。それでいて、毎月2,000本以上の作品も更新されています。ということは、今後も配信数は増え続けることになります。日本で100,000本以上の動画配信をしているところは、数社しかありません。よって「U-NEXT」は、トップシェアと言える存在なのです。\n\nそのジャンルは、大ヒット映画（洋画・邦画）はもちろん、人気ドラマおよびアニメ、韓流や華流、バラエティー、ドキュメンタリーと、とにかく盛りだくさん。これなら、見逃してしまった映画がDVD化されたとき、ふと懐かしいドラマを見たいと思ったとき、さらにはDVD限定の作品がでたときなどでも困ることはなさそうですね。\n\n■簡単再生＆豊富なデバイス対応\n\n「U-NEXT」は、パソコンをはじめ、テレビやスマートフォン、タブレットといった、さまざまデバイスで作品を視聴できます。また、用意しておく環境がインターネットだけなので、契約したあとすぐに再生することも可能。\n\nそのほか、複数のデバイスで同時にログインができたり、ダウンロードしたりもできます。例えば、見たい動画を事前にダウンロードしておけば、ネットワークの不安定な地下鉄、あるいはインターネットの使えない飛行機などでも視聴が可能になります。\n\n■今なら31日間無料トライアルも！\n「U-NEXT」の月額の基本料金は2,480円ですが、いま契約すれば「期間限定の31日間無料トライアル」からスタートできます。それでは、そのトライアルにはどんな特典があるのか見てみましょう。\n\n・31日間無料で見放題\n“全ジャンル”の作品がいつでも、どこでも見られる\n\n・31日間無料で読み放題\n\n動画配信以外にも、週刊誌、ビジネス誌、ファッション誌が読みたいだけ読める\n\n・31日間無料で聴き放題\n\n1,000チャンネルもの音楽番組をスマホで思う存分に聴ける\n\n・契約時間はわずか3分\n\n各種デバイスから3分で契約できるカンタン登録\n\nということで、「U-NEXT」のメリットはいかがでしたか？レンタルDVDショップだと、期日の心配をしたり、貸し借りの手間が面倒だったり、はたまた延滞料金が発生するなんてこともあります。しかし、「U-NEXT」なら面倒なことも一切ないので、きっと時間を有効に使えるはずです。今まであきらめていた長編ドラマや話題の映画など、これを機に制覇してみませんか？\n",
+					"settings":
+					{
+						"buffer_size": 1391,
 						"line_ending": "Unix",
-						"name": "Find Results",
+						"name": "大ヒット映画をいつでも見られる「U-NEXT」はレンタル不要な動画配信タイプ！"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/mineo.jsp",
+					"settings":
+					{
+						"buffer_size": 7359,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/linnet.jsp",
+					"settings":
+					{
+						"buffer_size": 7211,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/linnet.jsp",
+					"settings":
+					{
+						"buffer_size": 8549,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/u-next.jsp",
+					"settings":
+					{
+						"buffer_size": 6442,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/mineo.jsp",
+					"settings":
+					{
+						"buffer_size": 6215,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/orix-car-share.jsp",
+					"settings":
+					{
+						"buffer_size": 7093,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/orix-car-share.jsp",
+					"settings":
+					{
+						"buffer_size": 8327,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/gmo-click.jsp",
+					"settings":
+					{
+						"buffer_size": 7631,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "夏目部長\n出井CD\n\nデザイナーメンバーの2015・4Qのヒューマンポイント評価を仮で追加しました。全員のシートをこのシートにまとめています。\n\n出井さんにもまず自身の評価として自分で入れてもらっています。(吉住の評価部分を相対的に評価してもらってます)\n\n今後は出井さんに評価をしてもらうようになるので、すでに評価シートは出井さんも見られるように追加しています。\n\n問題なさそうであればそれぞれのシートに反映します。\n\n＜評価について＞\n\n・芹沢 (積極性/デザインスキル +5)\n→ インフォメーションボードなど目標外のプロジェクトに積極参加したことと\nリニューアル対応でのデザインを何回もダメ出しされながらもちゃんとアウトプット出したことを評価\n\n・柳澤 (積極性 -5)\n→ デザイナー適性は3Qで+5したが、やはり目標外だけど重要なタスクに対して消極的な点を考慮した\n\n・吉住 \n\n",
+					"settings":
+					{
+						"buffer_size": 396,
+						"line_ending": "Unix",
+						"name": "夏目部長"
+					}
+				},
+				{
+					"contents": "iOS - \niPhoneの機会損失\n・iOSからアプリへの送客\n・・インセつけてアプリへ送る",
+					"settings":
+					{
+						"buffer_size": 47,
+						"line_ending": "Unix",
+						"name": "iOS -"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/gmo-click.jsp",
+					"settings":
+					{
+						"buffer_size": 6474,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/index.jsp",
+					"settings":
+					{
+						"buffer_size": 37932,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/indexMyPageCheck.jsp",
+					"settings":
+					{
+						"buffer_size": 19450,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "∑<%@page import=\"org.apache.commons.lang.StringUtils\"%>\n<%@page import=\"gmom.ptu.common.PtuGlobals\"%>\n<%@page language=\"java\" pageEncoding=\"UTF-8\" %>\n<%@taglib prefix=\"logic\" uri=\"/WEB-INF/taglib/struts-logic.tld\"%>\n<%@taglib prefix=\"bean\" uri=\"/WEB-INF/taglib/struts-bean.tld\"%>\n<%@taglib prefix=\"html\" uri=\"/WEB-INF/taglib/struts-html.tld\"%>\n<%@taglib prefix=\"cm\" uri=\"/WEB-INF/taglib/comment-format.tld\"%>\n<%@taglib prefix=\"c\" uri=\"http://java.sun.com/jsp/jstl/core\"%>\n<%@taglib prefix=\"x\" uri=\"http://java.sun.com/jsp/jstl/xml\"%>\n<%@taglib prefix=\"fmt\" uri=\"http://java.sun.com/jsp/jstl/fmt\"%>\n<%@taglib prefix=\"pt\" uri=\"http://www.pointtown.com/pointtown_1_0\"%>\n<%@taglib prefix=\"fn\" uri=\"http://java.sun.com/jsp/jstl/functions\" %>\n\n<!DOCTYPE html>\n<html lang=\"ja\">\n<head>\n<jsp:include page=\"/WEB-INF/jsp_smartphone/common/head_no_js.jsp\" flush=\"true\">\n  <jsp:param name=\"description\" value=\"\" />\n  <jsp:param name=\"keywords\" value=\"\" />\n  <jsp:param name=\"title\" value=\"予定付与ポイント\" />\n</jsp:include>\n<pt:staticRef type=\"css\" path=\"/style/smartPhone/first_shopping.css\"/>\n<%-- <link rel=\"stylesheet\" href=\"//<%=PtuGlobals.URL_CDN_POINTTOWN %>/style/smartPhone/mypage.css?v=0304\"/>--%>\n<style type=\"text/css\">\n  .btn-assurance a{\n  display: block;\n  position: absolute;\n  right: 5px;\n  top: 5px;\n  padding: 2px 3px;\n  border-radius: 5px;\n  font-size: 1.4rem;\n  border: 1px solid #1b8ffe;\n  background-color: #03a9f4;\n  color: #fff;\n}\n</style>\n</head>\n<body>\n<jsp:include page=\"/WEB-INF/jsp_smartphone/common/header_menu.jsp\" flush=\"true\"/>\n\n<div id=\"contents\">\n\n<jsp:include page=\"/WEB-INF/jsp_smartphone/common/breadcrumb_mypage.jsp\" flush=\"true\"/>\n\n    <h1 id=\"main-ttl\">予定付与ポイント履歴<%-- <strong><a href=\"#about-pre-pt\"><i class=\"icon-chevron-sign-right\"></i>詳しく</a></strong> --%></h1>\n    <div class=\"well\">\n    <logic:notEmpty name=\"prePointHistory\">\n      <dl class=\"pt-history-each clearfix\">\n      <logic:iterate id=\"pre_point_history\" name=\"prePointHistory\" type=\"gmom.ptu.entity.PrePointHistory\">\n          <%-- お買い物制度お問い合わせ --%>\n          <%--<pt:IsAfAssuranceSupport orderDate=\"${pre_point_history.order_date_datetype }\" afId=\"${pre_point_history.af_id }\">\n          <a href=\"/ptu/sma/support/af_assurance/entry.do?prePointHistoryId=${pre_point_history.pre_point_history_id }\">\n          </pt:IsAfAssuranceSupport>--%>\n          <dt><strong><bean:write name=\"pre_point_history\" property=\"description\" /></strong></dt>\n          <%-- アクション日 --%>\n          <dd class=\"date\">\n            <small><bean:write name=\"pre_point_history\" property=\"order_date\" format=\"yyyy-MM-dd HH:mm:ss\" /></small>\n            <logic:notEqual name=\"pre_point_history\" property=\"transaction_flg\" value=\"0\" >\n              <small class=\"date-fixed\"><bean:write name=\"pre_point_history\" property=\"update_date\" format=\"yyyy-MM-dd\" /></small>\n            </logic:notEqual>\n          </dd>\n          <%-- 予定付与pt数 --%>\n          <dd class=\"status\">\n            <strong class=\"point\">\n              <logic:notEqual name=\"pre_point_history\" property=\"point\" value=\"0\" ><bean:write name=\"pre_point_history\" property=\"point\" format=\"###,###,###,###\" />pt</logic:notEqual>\n              <%-- ポイント数未定の場合 --%>\n              <logic:equal name=\"pre_point_history\" property=\"point\" value=\"0\" >ポイント数未定</logic:equal>\n            </strong>\n            <logic:equal name=\"pre_point_history\" property=\"transaction_flg\" value=\"0\" ><strong class=\"processing\">承認待ち</strong></logic:equal>\n            <logic:equal name=\"pre_point_history\" property=\"transaction_flg\" value=\"1\" ><strong class=\"approved\">承認済み</strong></logic:equal>\n            <logic:equal name=\"pre_point_history\" property=\"transaction_flg\" value=\"2\" ><strong class=\"unapproved\">非承認</strong></logic:equal>\n            <logic:equal name=\"pre_point_history\" property=\"transaction_flg\" value=\"0\" >&nbsp;</logic:equal>\n            <pt:IsAfAssuranceSupport orderDate=\"${pre_point_history.order_date_datetype }\" afId=\"${pre_point_history.af_id }\"  transactionFlg=\"${pre_point_history.transaction_flg }\">\n            <p class=\"btn-assurance\"><a href=\"/ptu/sma/support/af_assurance/entry.do?prePointHistoryId=${pre_point_history.pre_point_history_id }\">保証制度<i class=\"icon-circle-arrow-right\"></i></a></p>\n            </pt:IsAfAssuranceSupport>\n          </dd>\n          <%--<pt:IsAfAssuranceSupport orderDate=\"${pre_point_history.order_date_datetype }\" afId=\"${pre_point_history.af_id }\"></a></pt:IsAfAssuranceSupport>--%>\n      </logic:iterate>\n      </dl>\n    </logic:notEmpty>\n    <%-- 予定付与ポイントがない場合 --%>\n    <logic:empty name=\"prePointHistory\">\n      <p>獲得ポイントがありません</p>\n    </logic:empty>\n  </div>\n\n  <a href=\"/ptu/sma/support/af_assurance/lp.do\" class=\"full-banner\"><img class=\"contain\" src=\"//<%=PtuGlobals.URL_CDN_POINTTOWN %>/image/smartPhone/bn/ban-assurance-640100.png\" alt=\"お買い物保証制度\"></a>\n\n  <jsp:include page=\"/WEB-INF/jsp_smartphone/common/paging.jsp\" flush=\"true\"></jsp:include>\n\n  <div id=\"about-pre-pt\" class=\"well\">\n\n    <%-- browser&webviewでのコンテンツの表示可否(AndroidApp/iOSApp/Browser/iOSNativeApp BrowserMode/旧Android) --%>\n    <pt:ptAppWebview app=\"Android|iOS|Non|iOSNativeFull|AndroidOld\">\n      <%-- 2013/12/26追加 マイクロアド 32050 B --%>\n      <jsp:include page=\"/WEB-INF/jsp_smartphone/common/ad_320_50.jsp\" flush=\"true\"></jsp:include>\n    </pt:ptAppWebview>\n\n    <h3>予定付与ポイントとは？</h3>\n    <p>商品購入や会員登録などをご利用後に<strong>一時的に付与される仮のポイント</strong>です。</p>\n    <p>予定付与ポイントに反映されたものは、ステータスが「承認待ち」になります。</p>\n    <p>確定すると、ステータスが「承認済」または「非承認」になり、承認の場合ポイントが履歴に反映され付与されます。</p>\n  </div>\n\n  <div class=\"well\">\n    <h3>注意事項</h3>\n    <ul class=\"list-text\">\n      <li>※予定付与ポイントが一部対応していないショップ・サービスがございます。</li>\n      <li>※予定付与ポイント履歴の表示は確定日から30日間保持されます。</li>\n      <li>※楽天市場共同購入など購入金額が変動する場合、ステータスが承認に変更された際に予定付与ポイント数が変更される場合がございます。予めご了承くださいませ。</li>\n      <li>※Yahoo!ショッピング(ヤフー!ショッピング)は各ショップにより承認タイミングが異なるため、反映期間が最長で6ヶ月程度かかる場合もあります。</li>\n    </ul>\n  </div>\n\n  <jsp:include page=\"/WEB-INF/jsp_smartphone/common/footer.jsp\" flush=\"true\" />\n\n</div>\n<%-- JSローダー --%>\n<jsp:include page=\"/WEB-INF/jsp_smartphone/common/js_loader.jsp\" flush=\"true\"/>\n</body>\n</html>",
+					"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/mypage/history/pre_point_history.jsp",
+					"file_size": 7015,
+					"file_write_time": 1438844484000000,
+					"settings":
+					{
+						"buffer_size": 6068,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "12月売上げ\n■CPI：￥9,655,521 \n■くれか：￥9,797,944\n■CPA：￥4,158,198\n■無料コンテンツ合算：￥740,594\n■ATOWN：￥356,053\n（■KPI：￥5,254,845)£",
+					"settings":
+					{
+						"buffer_size": 110,
+						"line_ending": "Unix",
+						"name": "12月売上げ"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================",
+					"settings":
+					{
+						"buffer_size": 49,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
 						"scratch": true
 					}
 				}
@@ -1924,28 +2211,40 @@
 			"build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
 			"command_palette":
 			{
-				"height": 345.0,
+				"height": 400.0,
 				"selected_items":
 				[
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"up",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"git lo",
+						"Git: Log Current File"
 					],
 					[
 						"remo",
 						"Package Control: Remove Package"
 					],
 					[
-						"remov",
+						"remove",
 						"Package Control: Remove Package"
 					],
 					[
-						"list",
-						"Package Control: List Packages"
+						"remov",
+						"Package Control: Remove Package"
 					],
 					[
 						"inst",
@@ -1954,10 +2253,6 @@
 					[
 						"ins",
 						"Package Control: Install Package"
-					],
-					[
-						"up",
-						"Package Control: Upgrade/Overwrite All Packages"
 					],
 					[
 						"enco",
@@ -2110,10 +2405,6 @@
 					[
 						"git new b",
 						"Git: New Branch"
-					],
-					[
-						"git log",
-						"Git: Log Current File"
 					],
 					[
 						"",
@@ -2434,13 +2725,9 @@
 					[
 						"setjava",
 						"Set Syntax: JavaScript"
-					],
-					[
-						"javascr",
-						"Set Syntax: JavaScript"
 					]
 				],
-				"width": 583.0
+				"width": 457.0
 			},
 			"console":
 			{
@@ -2457,13 +2744,53 @@
 			},
 			"file_history":
 			[
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/index.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/top_login.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/taglib/pt.tld",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/template.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/mineo.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/campaign/bellmeson.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/campaign/delivery.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp/point_needs/thanks.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_head.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_point.jsp",
+				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/7/index.php",
+				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/5/index.php",
+				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/6/index.php",
+				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/4/index.php",
+				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/3/index.php",
+				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/2/index.php",
+				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/1/index.php",
+				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/8/index.php",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/service/common/timesale.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/banners_for_modal.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/login_modal.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/struts-config-smartphone.xml",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/struts-config-2008-renewal-real.xml",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/ad_ydn_rect.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/ad_ydn_rect_modal.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/game/gacha_play.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/sp/src/style/smartPhone/ydn.css",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/friendship/index.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/history.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/support/entry.jsp",
+				"/Users/usr0200301/Downloads/PAW 5000 Firmware6.1.0.7_CN/更新6.1.0.7版本.txt",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/lixil.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/lixil.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/plala.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/src/gmom/ptu/form/support/SupportForm.java",
+				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/sp/src/style/smartPhone/common.css",
+				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/sp/src/style/smartPhone/support.css",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/index.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/bitcoin/top.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/footer_af.jsp",
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/bitcoin/top.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/common/head/base.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/common/head/base_renew.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/life/index.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/pc/src/sass/view/retire/index.scss",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/regist/pre_regist_view.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/mypage/retire/top.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/lixil.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/retire/top.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/index.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/common/head.jsp",
@@ -2472,7 +2799,6 @@
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_card/common/head.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/app/layout/header.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/pc/bower.json",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/friendship/index.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/pc/src/sass/app/layout/_header.scss",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/pc/src/sass/app/component/_panel.scss",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/pc/src/js/app/_content-loaded.js",
@@ -2488,10 +2814,8 @@
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/sp/src/style/smartPhone/mypage.css",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/mypage/index.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_other.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_point.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_mileage.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_gift.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_head.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/index.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/common_raw.css",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/page/exchange/top.css",
@@ -2515,10 +2839,6 @@
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/index/component/panel/logout-entry-box.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/pc/dist/css/view/index.css",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/au/top.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/index.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/bitcoin/top.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/bitcoin/top.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/index.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/app/component/panel/creditcard-fes--card.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/pre_history.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/ad_320_100.jsp",
@@ -2529,8 +2849,6 @@
 				"/Users/usr0200301/Desktop/PointTown.Server/.gitignore",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/index/index.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/sp/src/js/smartPhone/common.js",
-				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/sp/src/style/smartPhone/common.css",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/taglib/pt.tld",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/pc/src/sass/view/support/af_assurance.scss",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/app/layout/head.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/mypage2014.css",
@@ -2549,42 +2867,11 @@
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/numbers/index.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/numbers/complete.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/minigame/gameTop.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/game/gacha_play.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/competition/competition_entry_complete.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/competition/competition_entry.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/free_only.jsp",
 				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/collection/index.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/collection/collection.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/ad_300_250.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/pc/dist/bower_components/modernizr/modernizr.js",
-				"/Users/usr0200301/Downloads/modernizr-custom (4).js",
-				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/pc/src/js/modernizr-custom.js",
-				"/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/swiper.css",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/work/Tomcat/localhost/ptu/org/apache/jsp/WEB_002dINF/jsp_005fpc/app/layout/head_jsp.java",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/au/top.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/au/confirm.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/au/complete.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/au/form.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/au/service.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/ana_mileage/top.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/amazon/index.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/footer_ads.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/campaign/sp_limited_item.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/campaign/disney.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/plala.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/lixil.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/support/entry.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/research/list.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/research/list.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/app_tutorial_ver2.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/regist/regist_complete.jsp",
-				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/top_login.jsp",
-				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/8/index.php",
-				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/7/index.php",
-				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/6/index.php",
-				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/5/index.php",
-				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/4/index.php",
-				"/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/3/index.php"
+				"/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/collection/collection.jsp"
 			],
 			"find":
 			{
@@ -2718,6 +3005,77 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"yyy",
+					"segmentFilter",
+					"rank",
+					"notify-box",
+					"情報「ポイントが貯まる！お得なメール一覧」のご登録をお願いします",
+					"36073",
+					"テキストテキストテキストテキストテキストテキストテキストテキスト",
+					"メインタイトル",
+					"記事タイトル",
+					"メインタイトル",
+					"strong",
+					"<h3>今ならプレミアム会員費2ヵ月無料で全品50%OFF！</h3>",
+					"pic",
+					"h3",
+					"h2",
+					"<section class=\"article-af__section\">\n      <h2>各セクションタイトル</h2>\n      <p>テキストテキストテキストテキスト</p>\n    </section>",
+					"h2",
+					"/view",
+					"af-detail-modal-open",
+					"givePoint",
+					"article",
+					"/jsp_pc",
+					"path=\"/",
+					"-",
+					"au",
+					"tran",
+					"<pt:ifPeriod startYYYYMMDDHH24MM=\"2015/12/01 00:00\" endYYYYMMDDHH24MM=\"2015/12/10 23:59\">\n      <li><div class=\"img12060 toku\"><a href=\"/ptu/exchange/gmo_point/top.do\">GMOとくとくポイント</a></div></li>\n    </pt:ifPeriod>",
+					"====",
+					"=====",
+					"=======\n      <span style=\"position:absolute;background:#F66;border-radius:3px;padding:3px;color:#FFF;font-size:12px;top:0px;right:0px;\">現在手数料無料</span>\n>>>>>>> 173e325d23eb546b1de4e7ab0d1664011e605b28",
+					"<<<<<<<",
+					"<<<<<<< HEAD",
+					"=======\n    <span style=\"position:absolute;background:#F66;border-radius:3px;padding:3px;color:#FFF;font-size:12px;top:0px;right:0px;\">現在手数料無料</span>\n>>>>>>> 173e325d23eb546b1de4e7ab0d1664011e605b28",
+					"head",
+					"<<<",
+					"</span>",
+					"<span>",
+					"class=\"q-09__cat-[0-9][0-9]\\\"",
+					"class=\"q-09__cat-[0-9]\\\"",
+					" class=\"q-09__cat-[0-9]\\\"",
+					"class=\"q-09__cat-\\[0-9]\\\"",
+					"class=\"q-09__cat-[0-9]\"",
+					"child",
+					"</span>",
+					"<span>",
+					"</span>",
+					"<span>",
+					" class=\"link-to-form\" href=\"javascript:void(0)\"",
+					"</span>",
+					"<span>",
+					"</span>",
+					"<span>",
+					"</span>",
+					"<span>",
+					"</span>",
+					"<span>",
+					"</span>",
+					"<span>",
+					"-08",
+					"q-09",
+					"<i ",
+					"back",
+					"反映期間後も承認待ち",
+					"ydn",
+					"oncli",
+					"article-af",
+					"超お得！現在、無金利キャンペーン",
+					"ydn_rect",
+					"\">",
+					"</li>",
+					"\">",
 					"41066",
 					"YYYY",
 					"YYY",
@@ -2774,78 +3132,7 @@
 					"warning-lt-ie-8",
 					"ie8",
 					"ie7",
-					"ie8",
-					"ie9",
-					"ie8",
-					"ie9",
-					"/pc/dist/bower_components/swiper/dist/js/swiper.min.js",
-					"history",
-					"html",
-					"swiper",
-					"swi",
-					"swiper",
-					"noticePromotion",
-					"noticePromotion();",
-					"smartc",
-					"point.js",
-					"point js",
-					"adways",
-					"party",
-					"stamp-now",
-					"stamp",
-					"afCount",
-					"c:if",
-					"if",
-					"stamp",
-					"afCount",
-					"zanSpStampCount",
-					"get-stamp-now",
-					"stamp",
-					"stampStatus",
-					"stamp",
-					"ajax",
-					"stamp",
-					"game-each",
-					"ad_300_250_2",
-					"ydn",
-					"</strong></div>",
-					"\"game-info\"><strong>",
-					"</strong>",
-					"<strong>",
-					"<br>",
-					"</b>",
-					"b class=\"name\"",
-					"<div class=\"icon\">",
-					"shiv",
-					".swiper-lazy-preloader",
-					"url",
-					">\n",
-					" R\"",
-					" L\"",
-					" L",
-					"au",
-					"■",
-					"red",
-					"AU",
-					"AuWallet",
-					"auWallet",
-					"AuWallet",
-					"ANAのマイル",
-					"exBg-l exMenu200-tpoint",
-					"AUウォレット",
-					",銀行",
-					"ANAのマイル",
-					"logo-ana-400200.png",
-					"<img id=\"exchange-logo\" src=\"//<%=PtuGlobals.URL_STATIC_POINTTOWN.get() %>/image/smartPhone/exchange/logo-ana-400200.png\">",
-					"ana",
-					"AUウォレット",
-					"ana_mileage",
-					"ana",
-					"ANAのマイル",
-					"AUウォレット",
-					"https://www.pointtown.com/support/",
-					"q-list q-.*\"",
-					"&"
+					"ie8"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2975,23 +3262,107 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 37,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/history.jsp",
+							"file": "/Users/usr0200301/Desktop/SVN/SPミニゲーム/login/8/index.php",
 							"settings":
 							{
-								"buffer_size": 19352,
+								"buffer_size": 30334,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										776,
-										776
+										1686,
+										1686
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/support.css",
+							"settings":
+							{
+								"buffer_size": 11211,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5681,
+										5685
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9843.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_money.jsp",
+							"settings":
+							{
+								"buffer_size": 13675,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12650,
+										12650
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6411.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_point.jsp",
+							"settings":
+							{
+								"buffer_size": 12897,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										850,
+										2213
 									]
 								],
 								"settings":
@@ -3007,52 +3378,264 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
+							"buffer": 4,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_gift.jsp",
 							"settings":
 							{
-								"buffer_size": 1329,
+								"buffer_size": 13857,
 								"regions":
 								{
-									"match":
-									{
-										"flags": 112,
-										"regions":
-										[
-											[
-												169,
-												174
-											],
-											[
-												311,
-												316
-											],
-											[
-												450,
-												455
-											],
-											[
-												626,
-												631
-											],
-											[
-												728,
-												733
-											],
-											[
-												911,
-												916
-											],
-											[
-												1075,
-												1080
-											],
-											[
-												1262,
-												1267
-											]
-										],
-										"scope": ""
-									}
+								},
+								"selection":
+								[
+									[
+										443,
+										443
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/common/list_head.jsp",
+							"settings":
+							{
+								"buffer_size": 5173,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2768,
+										2768
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1419.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/frontend/sp/src/style/smartPhone/common.css",
+							"settings":
+							{
+								"buffer_size": 198720,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12962,
+										12962
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 20056.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/page/exchange/top.css",
+							"settings":
+							{
+								"buffer_size": 8967,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8344,
+										8344
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10779.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/game/top_kuji.jsp",
+							"settings":
+							{
+								"buffer_size": 7625,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										822,
+										822
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/gmo_point/index.jsp",
+							"settings":
+							{
+								"buffer_size": 8144,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7735,
+										7737
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3160.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/pointtown-static/www_pointtown_com/style/page/exchange/detail.css",
+							"settings":
+							{
+								"buffer_size": 21431,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20955,
+										20955
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 21843.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/exchange/index.jsp",
+							"settings":
+							{
+								"buffer_size": 6497,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4641,
+										4643
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2079.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/exchange/index.jsp",
+							"settings":
+							{
+								"buffer_size": 44851,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19104,
+										19104
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9366.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
 								},
 								"selection":
 								[
@@ -3063,14 +3646,671 @@
 								],
 								"settings":
 								{
-									"detect_indentation": false,
-									"output_tag": 1,
-									"result_base_dir": "",
-									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-									"result_line_regex": "^ +([0-9]+):",
-									"scroll_past_end": true,
-									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/struts-config-2008-renewal-real.xml",
+							"settings":
+							{
+								"buffer_size": 321259,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										53279,
+										53279
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 21543.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/struts-config-smartphone.xml",
+							"settings":
+							{
+								"buffer_size": 195578,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										193649,
+										193649
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 80451.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/common/card_fes.jsp",
+							"settings":
+							{
+								"buffer_size": 15899,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13199,
+										13199
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9110.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/shopping/category_detail.jsp",
+							"settings":
+							{
+								"buffer_size": 36465,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7974,
+										7989
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3736.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/regist/regist_complete.jsp",
+							"settings":
+							{
+								"buffer_size": 16438,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9987,
+										9987
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4216.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/u-next.jsp",
+							"settings":
+							{
+								"buffer_size": 7415,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7415,
+										7415
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2981.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 20,
+							"settings":
+							{
+								"buffer_size": 1391,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1079,
+										1079
+									]
+								],
+								"settings":
+								{
+									"auto_name": "大ヒット映画をいつでも見られる「U-NEXT」はレンタル不要な動画配信タイプ！",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 21,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/mineo.jsp",
+							"settings":
+							{
+								"buffer_size": 7359,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4602,
+										4602
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2045.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 22,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/linnet.jsp",
+							"settings":
+							{
+								"buffer_size": 7211,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5169,
+										1448
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 558.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 23,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/linnet.jsp",
+							"settings":
+							{
+								"buffer_size": 8549,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3392,
+										3117
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1328.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 24,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/u-next.jsp",
+							"settings":
+							{
+								"buffer_size": 6442,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3879,
+										3879
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 840.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 25,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/mineo.jsp",
+							"settings":
+							{
+								"buffer_size": 6215,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2355,
+										2355
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1281.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 21,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/mineo.jsp",
+							"settings":
+							{
+								"buffer_size": 7359,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5018,
+										5018
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1643.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 26,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/orix-car-share.jsp",
+							"settings":
+							{
+								"buffer_size": 7093,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1282,
+										1282
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1175.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 27,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/orix-car-share.jsp",
+							"settings":
+							{
+								"buffer_size": 8327,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5717,
+										5717
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2649.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 28,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_pc/view/article-af/gmo-click.jsp",
+							"settings":
+							{
+								"buffer_size": 7631,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2898,
+										2898
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1117.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 29,
+							"settings":
+							{
+								"buffer_size": 396,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										339,
+										339
+									]
+								],
+								"settings":
+								{
+									"auto_name": "夏目部長",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 30,
+							"settings":
+							{
+								"buffer_size": 47,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										47,
+										47
+									]
+								],
+								"settings":
+								{
+									"auto_name": "iOS -",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 31,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/article-af/gmo-click.jsp",
+							"settings":
+							{
+								"buffer_size": 6474,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1324,
+										1324
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 32,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/index.jsp",
+							"settings":
+							{
+								"buffer_size": 37932,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2433,
+										2433
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 903.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 33,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_renewal/mypage/indexMyPageCheck.jsp",
+							"settings":
+							{
+								"buffer_size": 19450,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14038,
+										14038
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7499.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 34,
+							"file": "/Users/usr0200301/Desktop/PointTown.Server/ptu/WEB-INF/jsp_smartphone/mypage/history/pre_point_history.jsp",
+							"settings":
+							{
+								"buffer_size": 6068,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 615.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 35,
+							"settings":
+							{
+								"buffer_size": 110,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										110,
+										110
+									]
+								],
+								"settings":
+								{
+									"auto_name": "12月売上げ",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 36,
+							"settings":
+							{
+								"buffer_size": 49,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										49,
+										49
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -3136,7 +4376,7 @@
 			{
 				"height": 170.0
 			},
-			"position": "1301 0 1259 1417 0 0 2560 1417 ",
+			"position": "1308 0 1252 1417 0 0 2560 1417 ",
 			"replace":
 			{
 				"height": 0.0
@@ -3147,6 +4387,202 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"sma/prehito",
+						"WEB-INF/jsp_smartphone/mypage/history/pre_point_history.jsp"
+					],
+					[
+						"top_log",
+						"WEB-INF/jsp_smartphone/common/top_login.jsp"
+					],
+					[
+						"sma/index",
+						"WEB-INF/jsp_smartphone/index.jsp"
+					],
+					[
+						"pt.tld",
+						"WEB-INF/taglib/pt.tld"
+					],
+					[
+						"renew/mypage/",
+						"WEB-INF/jsp_renewal/mypage/index.jsp"
+					],
+					[
+						"sma/temp",
+						"WEB-INF/jsp_smartphone/article-af/template.jsp"
+					],
+					[
+						"pc/temp",
+						"WEB-INF/jsp_pc/view/article-af/template.jsp"
+					],
+					[
+						"pc/arti/temp",
+						"WEB-INF/jsp_pc/view/article-af/template.jsp"
+					],
+					[
+						"article/temp",
+						"WEB-INF/jsp_smartphone/article-af/template.jsp"
+					],
+					[
+						"pcmineo",
+						"WEB-INF/jsp_pc/view/article-af/mineo.jsp"
+					],
+					[
+						"mineo",
+						"WEB-INF/jsp_pc/view/article-af/mineo.jsp"
+					],
+					[
+						"pc/article/tem",
+						"WEB-INF/jsp_pc/view/article-af/template.jsp"
+					],
+					[
+						"temp",
+						"WEB-INF/jsp_smartphone/article-af/template.jsp"
+					],
+					[
+						"lixil",
+						"WEB-INF/jsp_pc/view/article-af/lixil.jsp"
+					],
+					[
+						"sma/campaign/",
+						"WEB-INF/jsp_smartphone/campaign/delivery.jsp"
+					],
+					[
+						"sma/campain/",
+						"WEB-INF/jsp_smartphone/campaign/bellmeson.jsp"
+					],
+					[
+						"sma/shopdetail",
+						"WEB-INF/jsp_smartphone/shopping/category_detail.jsp"
+					],
+					[
+						"card",
+						"WEB-INF/jsp_smartphone/common/card_fes.jsp"
+					],
+					[
+						"articleaf",
+						"WEB-INF/jsp_smartphone/article-af/lixil.jsp"
+					],
+					[
+						"struts",
+						"WEB-INF/struts-config-smartphone.xml"
+					],
+					[
+						"sma/exchange/index",
+						"WEB-INF/jsp_smartphone/exchange/index.jsp"
+					],
+					[
+						"sma/exchange",
+						"WEB-INF/jsp_smartphone/exchange/index.jsp"
+					],
+					[
+						"jsp_renew/exchange",
+						"WEB-INF/jsp_renewal/exchange/index.jsp"
+					],
+					[
+						"jsp_renew/gmo_poi",
+						"WEB-INF/jsp_renewal/exchange/gmo_point/index.jsp"
+					],
+					[
+						"jsp_renewal/toku",
+						"WEB-INF/jsp_renewal/game/top_kuji.jsp"
+					],
+					[
+						"common",
+						"sp/src/style/smartPhone/common.css"
+					],
+					[
+						"sma/top_",
+						"WEB-INF/jsp_smartphone/common/top_login.jsp"
+					],
+					[
+						"list_head",
+						"WEB-INF/jsp_renewal/exchange/common/list_head.jsp"
+					],
+					[
+						"renewal/exchange/common/list_gift.jsp",
+						"WEB-INF/jsp_renewal/exchange/common/list_gift.jsp"
+					],
+					[
+						"p_renewal/exchange/common/list_point.jsp",
+						"WEB-INF/jsp_renewal/exchange/common/list_point.jsp"
+					],
+					[
+						"/jsp_renewal/exchange/common/list_money.jsp",
+						"WEB-INF/jsp_renewal/exchange/common/list_money.jsp"
+					],
+					[
+						"ewal/exchange/common/list_head.jsp",
+						"WEB-INF/jsp_renewal/exchange/common/list_head.jsp"
+					],
+					[
+						"_renewal/exchange/common/list_point.jsp",
+						"WEB-INF/jsp_renewal/exchange/common/list_point.jsp"
+					],
+					[
+						"support",
+						"WEB-INF/jsp_renewal/support/entry.jsp"
+					],
+					[
+						"top_login",
+						"WEB-INF/jsp_smartphone/common/top_login.jsp"
+					],
+					[
+						"timesale.jsp",
+						"WEB-INF/jsp_smartphone/service/common/timesale.jsp"
+					],
+					[
+						"banners_for_modal",
+						"WEB-INF/jsp_smartphone/common/banners_for_modal.jsp"
+					],
+					[
+						"modal",
+						"WEB-INF/jsp_smartphone/common/login_modal.jsp"
+					],
+					[
+						"strutssmar",
+						"WEB-INF/struts-config-smartphone.xml"
+					],
+					[
+						"lixl",
+						"WEB-INF/jsp_pc/view/article-af/lixil.jsp"
+					],
+					[
+						"plala",
+						"WEB-INF/jsp_smartphone/article-af/plala.jsp"
+					],
+					[
+						"ydnrect",
+						"WEB-INF/jsp_smartphone/common/ad_ydn_rect.jsp"
+					],
+					[
+						"sma/gacha",
+						"WEB-INF/jsp_smartphone/game/gacha_play.jsp"
+					],
+					[
+						"ydn.css",
+						"sp/src/style/smartPhone/ydn.css"
+					],
+					[
+						"common.css",
+						"sp/src/style/smartPhone/common.css"
+					],
+					[
+						"sma/ydn",
+						"WEB-INF/jsp_smartphone/common/ad_ydn_rect.jsp"
+					],
+					[
+						"/jsp_pc/view/friendship/index.jsp",
+						"WEB-INF/jsp_pc/view/friendship/index.jsp"
+					],
+					[
+						"support.css",
+						"sp/src/style/smartPhone/support.css"
+					],
+					[
+						"renew/suppor/",
+						"WEB-INF/jsp_renewal/support/entry.jsp"
+					],
 					[
 						"sma/inde",
 						"WEB-INF/jsp_smartphone/index.jsp"
@@ -3180,10 +4616,6 @@
 						"/Users/usr0200301/Desktop/PointTown.Server/.gitignore"
 					],
 					[
-						"common",
-						"sp/src/style/smartPhone/common.css"
-					],
-					[
 						"logout-entry-box",
 						"WEB-INF/jsp_pc/view/index/component/panel/logout-entry-box.jsp"
 					],
@@ -3204,20 +4636,12 @@
 						"sp/src/js/smartPhone/common.js"
 					],
 					[
-						"pt.tld",
-						"WEB-INF/taglib/pt.tld"
-					],
-					[
 						"sma/retire",
 						"WEB-INF/jsp_smartphone/mypage/retire/top.jsp"
 					],
 					[
 						"af_assu",
 						"pc/src/sass/view/support/af_assurance.scss"
-					],
-					[
-						"lixil",
-						"WEB-INF/jsp_pc/view/article-af/lixil.jsp"
 					],
 					[
 						"renew/retire/",
@@ -3254,10 +4678,6 @@
 					[
 						"jsp_pc/head",
 						"WEB-INF/jsp_pc/app/layout/head.jsp"
-					],
-					[
-						"sma/index",
-						"WEB-INF/jsp_smartphone/index.jsp"
 					],
 					[
 						"app_tutorial",
@@ -3336,10 +4756,6 @@
 						"WEB-INF/jsp_renewal/exchange/common/list_money.jsp"
 					],
 					[
-						"list_head",
-						"WEB-INF/jsp_renewal/exchange/common/list_head.jsp"
-					],
-					[
 						"renewa/exchange",
 						"WEB-INF/jsp_renewal/exchange/index.jsp"
 					],
@@ -3360,10 +4776,6 @@
 						"WEB-INF/jsp_smartphone/common/js_loader.jsp"
 					],
 					[
-						"support",
-						"sp/src/style/smartPhone/support.css"
-					],
-					[
 						"pick",
 						"WEB-INF/jsp_smartphone/service/pickup_more.jsp"
 					],
@@ -3373,10 +4785,6 @@
 					],
 					[
 						"card_fes",
-						"WEB-INF/jsp_smartphone/common/card_fes.jsp"
-					],
-					[
-						"card",
 						"WEB-INF/jsp_smartphone/common/card_fes.jsp"
 					],
 					[
@@ -3428,10 +4836,6 @@
 						"sp/src/style/smartPhone/app-tutorial.css"
 					],
 					[
-						"top_login",
-						"WEB-INF/jsp_smartphone/common/top_login.jsp"
-					],
-					[
 						"app-tutorial.css",
 						"sp/src/style/smartPhone/app-tutorial.css"
 					],
@@ -3468,19 +4872,11 @@
 						"WEB-INF/jsp_smartphone/common/card_fes.jsp"
 					],
 					[
-						"top_log",
-						"WEB-INF/jsp_smartphone/common/top_login.jsp"
-					],
-					[
 						"tab_searchbox",
 						"WEB-INF/jsp_smartphone/common/tab_searchBox.jsp"
 					],
 					[
 						"ydn",
-						"sp/src/style/smartPhone/ydn.css"
-					],
-					[
-						"ydn.css",
 						"sp/src/style/smartPhone/ydn.css"
 					],
 					[
@@ -3502,162 +4898,6 @@
 					[
 						"shopping/index",
 						"WEB-INF/jsp_smartphone/shopping/index.jsp"
-					],
-					[
-						"global-li",
-						"sp/src/js/smartPhone/global-library.js"
-					],
-					[
-						"global",
-						"sp/src/js/smartPhone/global-library.js"
-					],
-					[
-						"global.",
-						"sp/src/js/smartPhone/global.js"
-					],
-					[
-						"sma/shopping/inde",
-						"WEB-INF/jsp_smartphone/shopping/index.jsp"
-					],
-					[
-						"cardsearc",
-						"WEB-INF/jsp_smartphone/service/credit_card_search.jsp"
-					],
-					[
-						"saison",
-						"WEB-INF/jsp_smartphone/campaign/saison.jsp"
-					],
-					[
-						"strust",
-						"WEB-INF/struts-config-smartphone.xml"
-					],
-					[
-						"struts",
-						"WEB-INF/struts-config-2008-renewal-real.xml"
-					],
-					[
-						"conp",
-						"WEB-INF/jsp_smartphone/minigame/minigameTopConplete.jsp"
-					],
-					[
-						"conpl",
-						"WEB-INF/jsp_smartphone/minigame/minigameTopConplete.jsp"
-					],
-					[
-						"minigame",
-						"WEB-INF/jsp_smartphone/minigame/minigameTop.jsp"
-					],
-					[
-						"strutssma",
-						"WEB-INF/struts-config-smartphone.xml"
-					],
-					[
-						"minigametop",
-						"WEB-INF/jsp_smartphone/minigame/minigameTop.jsp"
-					],
-					[
-						"plala",
-						"WEB-INF/jsp_smartphone/article-af/plala.jsp"
-					],
-					[
-						"sass/article-af",
-						"pc/src/sass/view/article-af/index.scss"
-					],
-					[
-						"lixi",
-						"WEB-INF/jsp_pc/view/article-af/lixil.jsp"
-					],
-					[
-						"comment.jsp",
-						"WEB-INF/jsp_renewal/pointpark/af/comment.jsp"
-					],
-					[
-						"assurance",
-						"WEB-INF/jsp_pc/view/support/af_assurance.jsp"
-					],
-					[
-						"base.jsp",
-						"WEB-INF/jsp_renewal/common/head/base.jsp"
-					],
-					[
-						"renew/base",
-						"WEB-INF/jsp_renewal/common/head/base_renew.jsp"
-					],
-					[
-						"mypage2",
-						"sp/src/style/smartPhone/mypage2012.css"
-					],
-					[
-						"jsp_renewal/mypage/index.jsp",
-						"WEB-INF/jsp_renewal/mypage/index.jsp"
-					],
-					[
-						"lixi.",
-						"WEB-INF/jsp_pc/view/article-af/lixil.jsp"
-					],
-					[
-						"offi",
-						"WEB-INF/jsp_smartphone/campaign/official_site.jsp"
-					],
-					[
-						"sp.",
-						"WEB-INF/jsp_pc/view/lp/sp.jsp"
-					],
-					[
-						"comment",
-						"WEB-INF/jsp_renewal/pointpark/af/comment.jsp"
-					],
-					[
-						"sma/top",
-						"WEB-INF/jsp_smartphone/common/top_login.jsp"
-					],
-					[
-						"renew/comment",
-						"WEB-INF/jsp_renewal/pointpark/af/comment.jsp"
-					],
-					[
-						"mammot",
-						"WEB-INF/jsp_smartphone/article-af/mammoth.jsp"
-					],
-					[
-						"article-af",
-						"pc/src/sass/view/article-af/index.scss"
-					],
-					[
-						"mamm",
-						"WEB-INF/jsp_pc/view/article-af/mammoth.jsp"
-					],
-					[
-						"side_menu",
-						"WEB-INF/jsp_smartphone/common/side_menu.jsp"
-					],
-					[
-						"card_",
-						"WEB-INF/jsp_smartphone/common/card_fes.jsp"
-					],
-					[
-						"kuma",
-						"WEB-INF/jsp_smartphone/campaign/kumapon.jsp"
-					],
-					[
-						"card_fess",
-						"WEB-INF/jsp_smartphone/common/card_fes.jsp"
-					],
-					[
-						"renew/common/head",
-						"WEB-INF/jsp_renewal/common/head.jsp"
-					],
-					[
-						"renewal/comment",
-						"WEB-INF/jsp_renewal/pointpark/af/comment.jsp"
-					],
-					[
-						"/mypage/index.jsp",
-						"WEB-INF/jsp_renewal/mypage/index.jsp"
-					],
-					[
-						"/mypage/renewal.jsp",
-						"WEB-INF/jsp_renewal/mypage/renewal.jsp"
 					]
 				],
 				"width": 0.0
