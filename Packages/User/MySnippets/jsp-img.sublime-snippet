@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+<img src="//<%=PtuGlobals.URL_CDN_POINTTOWN %>/image/${1}" alt="">
+]]></content>
+  <tabTrigger>ptimg</tabTrigger>
+  <scope>text.html.jsp</scope>
+</snippet>
+
+<snippet>
+<content><![CDATA[
+<img class="${1}" src="//<%=PtuGlobals.URL_CDN_POINTTOWN %>/image/${2}" alt="">
+]]></content>
+  <tabTrigger>ptimgclass</tabTrigger>
+  <scope>text.html.jsp</scope>
+</snippet>
